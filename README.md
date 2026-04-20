@@ -26,7 +26,7 @@ const decrypt = () => {
 ## Installation
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/eliks-ind/encrypt_it.git
+    git clone https://github.com/eldarsji/encrypt_it.git
     cd encrypt_it
     ```
 2. **Install dependencies:**
